@@ -1,0 +1,77 @@
+body {
+  background-image: url("background.jpg");
+  background-size: cover;
+}
+
+.container {
+  width: 750px;
+  margin: auto;
+  margin-top: 20px;
+  padding: 80px;
+  background: rgba(0, 0, 0, 0.76);
+  border-radius: 15px;
+}
+
+header {
+  text-align: center;
+  color: lime;
+}
+
+header > span {
+  display: block;
+  font-size: 20px;
+}
+
+#image {
+  width: 150px;
+}
+
+div > button {
+  padding: 1px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size:10px;
+}
+
+.button-box {
+  background: lime;
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+}
+
+h3 {
+  display: inline-block;
+  color: white;
+  margin: 0
+}
+
+div > span {
+  color: gray;
+  font-size: 15px;
+}
+
+.orange {
+  background: orange;
+  margin:auto;
+  padding: 10px;
+  margin-right: 450px;
+  border-radius: 5px;
+}
+
+.green {
+  background: green;
+  margin:auto;
+  padding: 10px;
+  margin-right: 300px;
+  border-radius: 5px;
+}
+
+.red {
+  background: red;
+  margin:auto;
+  padding: 10px;
+  margin-right: 650px;
+  border-radius: 5px;
+}
